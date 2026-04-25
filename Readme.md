@@ -39,4 +39,4 @@ This dashboard helps stakeholders:
 ---
 
 ##  Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](images/dashboard.png)
